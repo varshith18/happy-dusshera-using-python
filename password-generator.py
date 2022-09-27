@@ -16,4 +16,6 @@ for i in range(1,1000):
         print(str + 'Happy Dusshera 2022')
     else:
         print(str + '*')
+    str=''
+    time.sleep(0.5)
     
